@@ -8,3 +8,5 @@ elif guess < number:
   print('No, guess higher')
 else:
   print('No, guess lower')
+
+print('Done')
